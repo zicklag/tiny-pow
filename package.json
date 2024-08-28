@@ -7,8 +7,8 @@
     "minify": "uglifyjs --compress --mangle -o tiny-pow.min.js tiny-pow.js",
     "build-module": "node build-es6-module"
   },
-  "main": "tiny-pow.module.min.js",
-  "unpkg": "tiny-pow.module.min.js",
+  "main": "tiny-pow.module.min.mjs",
+  "unpkg": "tiny-pow.module.min.mjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rundik/tiny-pow.git"
